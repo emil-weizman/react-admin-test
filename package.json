@@ -1,7 +1,7 @@
 {
   "name": "test-admin",
   "private": true,
-  "homepage": "https://github.com/emil-weizman/test-react-admin",
+  "homepage": "https://github.com/emil-weizman/react-admin-test",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
